@@ -1,2 +1,23 @@
-# Data-Science-with-Python
-Data Science with Python
+# Pandas Basics
+
+Pandas Basics covering all basic data analysis operations performed using Python Pandas library.
+
+## Modules Used
+
+- Pandas
+- Numpy
+
+## Case Studies
+
+### Case Study 1 - Evaluate the NewYork city fire department (FDNY) Dataset
+
+**Dataset** - [FDNY dataset](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Pandas/FDNY.csv)
+
+**Solution** - [Problem Solution](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Pandas/Evaluate%20the%20NewYork%20city%20fire%20department%20(FDNY)%20Dataset.ipynb)
+
+
+### Case Study 2 - Evaluate the Federal Aviation Authority (FAA) Dataset
+
+**Dataset** - [Federal Aviation Authority Dataset](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Pandas/faa_ai_prelim.csv)
+
+**Solution** - [Problem Solution](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Pandas/Evaluate%20the%20Federal%20Aviation%20Authority%20(FAA)%20Dataset.ipynb)
