@@ -29,7 +29,7 @@ Demonstrating Visualization basic concepts using python matplotlib and Seaborn L
 **Solution** - [Problem Solution](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Data%20Visualization/Analysing%20Cause%20of%20Death.ipynb)
 
 
-### Case Study 2 - Determine relationship between features and Origin
+### Case Study 2 - Determine relationship between features and Origin using Pairplot
 
 **Dataset** - [Automobile data](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Data%20Visualization/auto_data.csv)
 
