@@ -2,6 +2,37 @@
 
 Start your Data Science Journey with Python. Covers all basic concepts of Data Science with Python.
 
+## Basic Steps of Data Science Project (CRISP-DM Framework)
+
+![image](https://user-images.githubusercontent.com/62512421/196765490-82c9e651-c45f-487d-9633-362baef41fa2.png)
+
+1. Business Understanding:
+-	Define the questions that the study is supposed to answer
+-	Set the objectives
+-	Create a project plan
+-	Define the success criteria
+
+2. Data Understanding
+- Data Collection
+- Description (Descriptive Analytics)
+
+Types of Analytics-
+
+- **Descriptive Analytics** – What happened?
+- **Diagnostic Analytics** – Why this happened?
+- **Predictive Analytics** – what will happen?
+- **Prescriptive Analytics** – What should happen?
+
+3. Data Preparation
+-	Clean the data
+-	Manipulate the data
+
+4. Model Building
+
+5. Validation
+
+6. Presentation/Visualization
+
 ## Topics Covered
 
 Basic concepts with Case studies includes -
