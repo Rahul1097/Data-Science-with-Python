@@ -21,3 +21,8 @@ Pandas Basics covering all basic data analysis operations performed using Python
 **Dataset** - [Federal Aviation Authority Dataset](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Pandas/faa_ai_prelim.csv)
 
 **Solution** - [Problem Solution](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Pandas/Evaluate%20the%20Federal%20Aviation%20Authority%20(FAA)%20Dataset.ipynb)
+
+## Pandas Cheatsheets
+
+- [CheatSheet 1](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Pandas/Pandas_Python_Cheat_Sheet_1.pdf)
+- [CheatSheet 2](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Pandas/Pandas_Python_Cheat_Sheet_2.pdf)
