@@ -7,7 +7,7 @@ Data Visualization Basics using python libraries and case studies.
 - Matplotlib
 - Seaborn
 
-## Visualization_Basics
+## Basics of Data Visualization
 
 Demonstrating Visualization basic concepts using python matplotlib and Seaborn Libraries. It contains -
 
@@ -19,6 +19,13 @@ Demonstrating Visualization basic concepts using python matplotlib and Seaborn L
 - **Scatter Plot** - Determine relationships between two variables (dependent/independent)
 - **Heat Map** - Used for Identifying correlations between different variables
 - **Pie charts** - Used to identify distribution of data in percentages
+- **Bar Plots** - Used to compare data according to variables
+
+## Jupyter Notebooks -
+
+- [Visualization_Basics](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Data%20Visualization/Visualization_Basics.ipynb)
+- [Visualization_Matplotlib](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Data%20Visualization/Visualization_Matplotlib.ipynb)
+- [Visualization_Seaborn](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Data%20Visualization/Visualization_Seaborn.ipynb)
 
 ## Case Studies
 
