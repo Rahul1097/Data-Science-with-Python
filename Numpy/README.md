@@ -10,6 +10,9 @@ Numpy Basics covering all basic mathematical operations and functions performed 
 
 Demonstrating common Mathematical operations performed using Python Numpy library.
 
+- [Numpy Basics 1](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Numpy/Numpy_basics.ipynb)
+- [Numpy Basics 2](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Numpy/Numpy_Basics-2.ipynb)
+
 ## Case Studies
 
 ### Case Study 1 - Evaluate the GDP Dataset
