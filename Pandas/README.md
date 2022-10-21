@@ -2,6 +2,9 @@
 
 Pandas Basics covering all basic data analysis operations performed using Python Pandas library.
 
+- [Pandas Basics 1](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Pandas/Pandas_Basics-1.ipynb)
+- [Pandas Basics 2](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Pandas/Pandas_Basics-2.ipynb)
+
 ## Modules Used
 
 - Pandas
