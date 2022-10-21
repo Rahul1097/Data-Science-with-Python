@@ -76,3 +76,8 @@ Execute below command -
 or 
 
 ```pip install -r requirements.txt```
+
+## References
+
+- Datacamp
+- Simplilearn
