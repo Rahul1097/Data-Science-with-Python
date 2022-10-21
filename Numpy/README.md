@@ -16,7 +16,17 @@ Demonstrating common Mathematical operations performed using Python Numpy librar
 
 **Solution** - [Problem Solution](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Numpy/Evaluate%20the%20GDP%20Dataset.ipynb)
 
-
 ### Case Study 2 - Evaluate the Summer Olympics, London 2012 dataset
 
 **Solution** - [Problem Solution](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Numpy/Evaluate%20the%20Summer%20Olympics,%20London%202012%20dataset.ipynb)
+
+## Numpy Cheatsheets
+
+- [CheatSheet 1](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Numpy/Numpy_Python_Cheat_Sheet_1.pdf)
+- [CheatSheet 2](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Numpy/Numpy_Python_Cheat_Sheet_2.pdf)
+- [CheatSheet 3](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Numpy/Numpy_Python_Cheat_Sheet3.pdf)
+
+## References
+
+- DataCamp
+- Simplilearn
