@@ -40,6 +40,7 @@ Basic concepts with Case studies includes -
 - [Numpy](https://github.com/Rahul1097/Data-Science-with-Python/tree/master/Numpy)
 - [Pandas](https://github.com/Rahul1097/Data-Science-with-Python/tree/master/Pandas)
 - [Scipy](https://github.com/Rahul1097/Data-Science-with-Python/tree/master/Scipy)
+- [Statistics](https://github.com/Rahul1097/Data-Science-with-Python/tree/master/Statistics)
 - [Data Visualization](https://github.com/Rahul1097/Data-Science-with-Python/tree/master/Data%20Visualization)
 - [Web Scraping](https://github.com/Rahul1097/Data-Science-with-Python/tree/master/Web%20Scraping)
 - [Machine Learning](https://github.com/Rahul1097/Data-Science-with-Python/tree/master/Machine%20Learning)
