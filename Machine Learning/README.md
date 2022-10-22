@@ -1,10 +1,14 @@
 # Introduction to Machine Learning Using Python
 
 Introduction to Machine Leaning with Python using Sklearn library. Covers basic ML algorithms mentioned below -
-- Linear Regression
+- Simple Linear Regression
+- Multiple Linear Regression
 - Logistic Regression
+- Decision Trees
 - KNN
 - K-Means clustering
+- Naive Bayes
+- PCA
 
 ## Modules Used
 
@@ -24,6 +28,12 @@ Demonstrating Visualization basic concepts using python matplotlib and Seaborn L
 - **Build ML Pipeline** - Steps for building ML Pipeline
 - **Model Persistance** - Steps for model Persistance using Logistic Regression on Iris Dataset
 
+## Jupyter Notebooks
+
+- [Machine Learning Basics](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Machine%20Learning/Machine_Learning_Basics.ipynb)
+- [Linear Regression](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Machine%20Learning/Linear_Regression.ipynb)
+- [Classification Algorithms](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Machine%20Learning/Classification_algorithms.ipynb)
+
 ## Case Studies
 
 ### Case Study 1 - Evaluate the Diabetes Dataset using Logistic Regression
@@ -33,7 +43,6 @@ Demonstrating Visualization basic concepts using python matplotlib and Seaborn L
 **Dataset Information** - [Diabetes Dataset Information](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Machine%20Learning/pima-indians-diabetes.names)
 
 **Solution** - [Problem Solution](https://github.com/Rahul1097/Data-Science-with-Python/blob/master/Machine%20Learning/Evaluate%20the%20Diabetes%20Dataset.ipynb)
-
 
 ### Case Study 2 - Evaluate the Advertisement Budget and Sales Dataset of XYZ Firm using Linear Regression
 
